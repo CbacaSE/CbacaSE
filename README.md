@@ -9,7 +9,7 @@ Hello, I'm Chantal! 👽 I'm a full-stack software engineer with a need for spee
 - 🏎️ Car Enthusiast, 🎮 Gamer, & 🖥️ Computer nerd who also loves music! 🎵
   
 
-- 👩‍💻 I’m currently expanding my back-end knowledge!  
+- 👩‍💻 I’m currently expanding my back-end knowledge! #100DEVS
   
 
 - 🤜🤛 Lets collaborate on any exciting or automotive projects!  
