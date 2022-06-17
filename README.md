@@ -3,7 +3,7 @@
 </div>  
   
 
-Hello, I'm Chantal! 👽 I'm a full-stack software engineer with a need for speed! I'm looking to continue to pave my way through Software Development in the Automotive space!  
+Hello, I'm Chantal! 👽 I'm a <a href="https://www.dictionary.com/browse/philomath">Philomath</a> who is excited for what the future brings to the technology world!
   
 
 - 🏎️ Car Enthusiast, 🎮 Gamer, & 🖥️ Computer nerd who also loves music! 🎵
@@ -12,7 +12,7 @@ Hello, I'm Chantal! 👽 I'm a full-stack software engineer with a need for spee
 - 👩‍💻 I’m currently expanding my back-end knowledge! #100DEVS
   
 
-- 🤜🤛 Lets collaborate on any exciting or automotive projects!  
+- 🤜🤛 Lets collaborate on any exciting projects or automotive projects!  
   
 
 -  👩‍🔧 Fun fact: I used to be an Auto Body & Paint technician for 8 years!  
