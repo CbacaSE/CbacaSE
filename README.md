@@ -19,6 +19,9 @@ Hello, I'm Chantal! 👽 I'm a <a href="https://www.dictionary.com/browse/philom
   
 
 - 📭 Reach me: chantalbaca3@gmail.com  
+
+
+- 💻 Portfolio: <a href="https://cbaca.dev">Cbaca.dev</a>
   
 
 <br/>  
