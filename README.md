@@ -63,7 +63,7 @@ Hello, I'm Chantal! 👽 I'm a <a href="https://www.dictionary.com/browse/philom
 
 
 
-### What am I listening to?  
+### Come JAM with me!  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12169305255&cover_image=true&theme=novatorem&bar_color=6918a0&bar_color_cover=false" /></div>
 <br />
 
