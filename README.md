@@ -3,7 +3,7 @@
 </div>  
   
 
-Hello, I'm Chantal! 👽 I'm a <a href="https://www.dictionary.com/browse/philomath">Philomath</a> who is excited for what the future brings to the technology world!
+Hello, I'm Chantal! 👽 I'm a <a href="[https://www.dictionary.com/browse/philomath](https://en.wikipedia.org/wiki/Philomath#:~:text=A%20philomath%20(%2F%CB%88f%C9%AA,lover%20of%20learning%20and%20studying.)">Philomath</a> who is excited for what the future brings to the technology world!
   
 
 - 🏎️ Car Enthusiast, 🎮 Gamer, & 🖥️ Computer nerd who also loves music! 🎵
