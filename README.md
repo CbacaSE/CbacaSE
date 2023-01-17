@@ -56,8 +56,8 @@ Hello, I'm Chantal! 👽 I'm a <a href="https://www.dictionary.com/browse/philom
 <br/>  
 
 
-## Github Stats  
-![cbacaSE's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbacaSE&theme=aura&show_icons=true) 
+<!-- ## Github Stats  
+![cbacaSE's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbacaSE&theme=aura&show_icons=true)  -->
 
 <br/>  
 
