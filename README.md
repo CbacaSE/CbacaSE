@@ -22,6 +22,9 @@ Hello, I'm Chantal! 👽 I'm a <a href="https://www.dictionary.com/browse/philom
 
 
 - 💻 Portfolio: <a href="https://cbaca.dev">Cbaca.dev</a>
+
+
+- 🎨 Also check out some of my CSS ART! <a href="https://codepen.io/cbacase">Codepen.io</a>
   
 
 <br/>  
