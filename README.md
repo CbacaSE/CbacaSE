@@ -9,7 +9,7 @@ Hello, I'm Chantal! 👽 I'm a <a href="https://www.dictionary.com/browse/philom
 - 🏎️ Car Enthusiast, 🎮 Gamer, & 🖥️ Computer nerd who also loves music! 🎵
   
 
-- 👩‍💻 I’m currently expanding my back-end knowledge! #100DEVS
+- 👩‍💻 I’m currently expanding my back-end knowledge!
   
 
 - 🤜🤛 Lets collaborate on any exciting projects or automotive projects!  
