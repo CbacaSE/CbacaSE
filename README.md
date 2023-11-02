@@ -10,6 +10,9 @@ Hello, I'm Chantal! 👽 I'm a <a href="https://www.dictionary.com/browse/philom
   
 
 - 👩‍💻 I’m currently expanding my back-end knowledge!
+
+
+- 👩‍💻 My current in progress project is: RaceDay 🏁
   
 
 - 🤜🤛 Lets collaborate on any exciting projects or automotive projects!  
